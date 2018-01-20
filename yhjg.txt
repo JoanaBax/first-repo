@@ -1,2 +1,4 @@
 hello
 hi
+"Промяна с Bash…"
+"git add ."
